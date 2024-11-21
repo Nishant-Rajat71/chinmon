@@ -1,2 +1,1 @@
-# chinmon
-asd
+The Bank Churn Prediction app is a machine-learning-powered tool designed to predict the likelihood of a customer leaving their bank. By analyzing critical factors such as age, credit score, balance, tenure with the bank, the number of products used, and customer engagement (e.g., credit card ownership and active membership), the app provides accurate, real-time predictions. This helps banks proactively identify at-risk customers and implement strategies to improve retention, ensuring better customer satisfaction and business growth.
