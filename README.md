@@ -1,1 +1,1 @@
-The Bank Churn Prediction app helps banks identify customers who are likely to leave their services. By analyzing key inputs like age, credit score, balance, tenure, and engagement, it provides real-time predictions, enabling banks to take proactive measures to retain valuable customers.
+The Bank Churn Prediction model helps banks identify customers who are likely to leave their services. By analyzing key inputs like age, credit score, balance, tenure, and engagement, it provides real-time predictions, enabling banks to take proactive measures to retain valuable customers.
